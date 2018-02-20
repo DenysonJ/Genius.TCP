@@ -1,0 +1,9 @@
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\bin\Release\Genius.exe.config
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\bin\Release\Genius.exe
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\bin\Release\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Release\Genius.csprojResolveAssemblyReference.cache
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Release\Genius.Genius.resources
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Release\Genius.Properties.Resources.resources
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Release\Genius.csproj.GenerateResource.Cache
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Release\Genius.exe
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Release\Genius.pdb

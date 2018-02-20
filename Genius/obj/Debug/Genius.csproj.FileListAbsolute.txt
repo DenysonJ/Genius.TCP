@@ -1,0 +1,87 @@
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\bin\Debug\Genius.exe.config
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\bin\Debug\Genius.exe
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\bin\Debug\Genius.pdb
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\obj\Debug\Genius.Genius.resources
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\obj\Debug\Genius.exe
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Geniu\Genius\Genius\obj\Debug\Genius.pdb
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\bin\Debug\Genius.exe.config
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.exe
+D:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.pdb
+C:\Users\Pet\Downloads\Genius\Genius\bin\Debug\Genius.exe.config
+C:\Users\Pet\Downloads\Genius\Genius\obj\Debug\Genius.exe
+C:\Users\Pet\Downloads\Genius\Genius\obj\Debug\Genius.pdb
+C:\Users\Pet\Downloads\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+C:\Users\Pet\Downloads\Genius\Genius\obj\Debug\Genius.Genius.resources
+C:\Users\Pet\Downloads\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+C:\Users\Pet\Downloads\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Pet\Downloads\Genius\Genius\bin\Debug\Genius.exe
+C:\Users\Pet\Downloads\Genius\Genius\bin\Debug\Genius.pdb
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\bin\Debug\Genius.exe.config
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\obj\Debug\Genius.exe
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\obj\Debug\Genius.pdb
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\obj\Debug\Genius.Genius.resources
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\bin\Debug\Genius.exe
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\bin\Debug\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\bin\Debug\Genius.exe.config
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.exe
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\bin\Debug\Genius.exe
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\bin\Debug\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.Genius.resources
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\bin\Debug\Genius.exe.config
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\obj\Debug\Genius.exe
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\obj\Debug\Genius.pdb
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\bin\Debug\Genius.exe
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\bin\Debug\Genius.pdb
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\obj\Debug\Genius.Genius.resources
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Denyson\Downloads\Genius last\Genius\bin\Debug\Genius.exe.config
+C:\Users\Denyson\Downloads\Genius last\Genius\obj\Debug\Genius.exe
+C:\Users\Denyson\Downloads\Genius last\Genius\obj\Debug\Genius.pdb
+C:\Users\Denyson\Downloads\Genius last\Genius\bin\Debug\Genius.exe
+C:\Users\Denyson\Downloads\Genius last\Genius\bin\Debug\Genius.pdb
+C:\Users\Denyson\Downloads\Genius last\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+C:\Users\Denyson\Downloads\Genius last\Genius\obj\Debug\Genius.Genius.resources
+C:\Users\Denyson\Downloads\Genius last\Genius\obj\Debug\Genius.Properties.Resources.resources
+C:\Users\Denyson\Downloads\Genius last\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\bin\Debug\Genius.exe.config
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\obj\Debug\Genius.exe
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\obj\Debug\Genius.pdb
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\bin\Debug\Genius.exe
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\bin\Debug\Genius.pdb
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\obj\Debug\Genius.Genius.resources
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\obj\Debug\Genius.Properties.Resources.resources
+C:\Users\Pet\Desktop\PET\Milani\Genius\Genius_last-2015-11-18\Genius last\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\bin\Debug\Genius.exe.config
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\obj\Debug\Genius.exe
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\obj\Debug\Genius.pdb
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\bin\Debug\Genius.exe
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\bin\Debug\Genius.pdb
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\obj\Debug\Genius.Genius.resources
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+C:\Users\Note - Main\Downloads\Genius with i-sl-sh\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
+C:\Users\Denyson\Downloads\Genius\Genius\Genius\bin\Debug\Genius.exe.config
+C:\Users\Denyson\Downloads\Genius\Genius\Genius\obj\Debug\Genius.exe
+C:\Users\Denyson\Downloads\Genius\Genius\Genius\obj\Debug\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\bin\Debug\Genius.exe.config
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Debug\Genius.exe
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Debug\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\bin\Debug\Genius.exe
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\bin\Debug\Genius.pdb
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Debug\Genius.csprojResolveAssemblyReference.cache
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Debug\Genius.Genius.resources
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Debug\Genius.Properties.Resources.resources
+E:\Denyson\Estudos\UFRGS\Técnicas de Construção de Programas\Trabalho\Genius\Genius\Genius\obj\Debug\Genius.csproj.GenerateResource.Cache
